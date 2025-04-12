@@ -1,4 +1,4 @@
-Description du Projet
+# Projet d'Amélioration du Réseau de Fibres Optiques
 Ce projet vise à améliorer le réseau de fibres optiques d'une agglomération donnée. L'objectif principal est de proposer des méthodes efficaces pour la reconstruction du plan du réseau, ainsi que pour la réorganisation des attributions de fibres entre les différents opérateurs. Cette réorganisation a pour but d'optimiser l'utilisation des ressources tout en permettant une gestion plus souple et plus performante du réseau.
 
 Pour atteindre cet objectif, différentes structures de données seront utilisées afin de modéliser et manipuler efficacement les informations relatives au réseau de fibres optiques :
@@ -12,3 +12,6 @@ Arbres quaternaires : Ces structures sont particulièrement adaptées à la repr
 Graphes : Ils permettent de modéliser la connectivité entre les différentes sections du réseau de fibres optiques, facilitant ainsi la recherche de chemins optimaux, la gestion des flux de données et l’analyse de la topologie du réseau.
 
 Ce projet met l’accent sur l’efficience et la flexibilité, en s’appuyant sur des algorithmes adaptés à chaque type de structure de données afin de garantir une gestion optimale des fibres optiques, réduisant ainsi les coûts et améliorant la performance globale du réseau.
+
+# Lien vers le rapport : 
+DOCS/rapport_sdd.pdf
