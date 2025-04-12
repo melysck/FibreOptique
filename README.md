@@ -13,6 +13,6 @@ Graphes : Ils permettent de modéliser la connectivité entre les différentes s
 
 Ce projet met l’accent sur l’efficience et la flexibilité, en s’appuyant sur des algorithmes adaptés à chaque type de structure de données afin de garantir une gestion optimale des fibres optiques, réduisant ainsi les coûts et améliorant la performance globale du réseau.
 
-- [Voir le rapport SDD en PDF](https://github.com/melysck/FibreOptique/raw/main/DOCS/rapport_sdd.pdf)
+- [Voir le rapport SDD en PDF](DOCS/rapport_sdd.pdf)
 
 - [Voir le sujet / énoncé du projet](DOCS/enonceV1.pdf)
